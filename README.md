@@ -18,37 +18,11 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 - **GSAP**: GreenSock Animation Platform for creating animations.
 - **Shery.js**: JavaScript library for creating scroll animations.
 
-## Preview
-
-![Refokus Website Clone Preview](/public/preview.png)
-
-## Live Website
-
-Explore Refokus-Clone live: [Refokus-Clone Live](https://antra77.github.io/Refokus-Clone/)
-
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository to your local machine:
-`git clone https://github.com/yourusername/refokus-website-clone.git`
-
-
-2. Navigate to the project directory:
-`cd refokus-website-clone`
-
-
-3. Open the `index.html` file in your preferred web browser.
-
-4. Explore the Refokus website clone!
+Explore the Refokus website clone!
 
 ## Contribution
 
 Contributions are welcome! If you have ideas on how to improve the Refokus website clone or add new features, please feel free to submit an issue or pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
